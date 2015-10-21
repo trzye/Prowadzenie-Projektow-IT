@@ -1,6 +1,6 @@
 <h1>Prowadzenie projektów IT</h1>
 
-Projekt studencki na przedmiot Prowadzenia Projektów IT. Przypadkiem projektu jest "Uczelniany System Dydaktyczny"
+Projekt studencki na przedmiot Prowadzenia Projektów IT, semestr 5. Przypadkiem projektu jest "Uczelniany System Dydaktyczny"
 
 • GitHub: <a href="http://github.com/trzye/Prowadzenie-Projektow-IT">Prowadzenie projektów IT</a>
 
