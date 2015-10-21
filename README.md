@@ -8,4 +8,4 @@ Projekt studencki na przedmiot Prowadzenia Projektów IT. Przypadkiem projektu j
 
 • Tematy: Macierz RAM, Diagramy sieciowe, Projektowa i prowadzenie projektów
 
-• Autorzy: Buczek Wojciech, <u>Jereczek Michał}<\u> Łopatka Jagoda, Mazurkiewicz Paweł, Wróblewski Krzysztof
+• Autorzy: Buczek Wojciech, <u>Jereczek Michał}</u> Łopatka Jagoda, Mazurkiewicz Paweł, Wróblewski Krzysztof
