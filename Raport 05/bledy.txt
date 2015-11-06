@@ -1,0 +1,14 @@
+Raport 05
+1. Prezentacja
+2. Dokument IEE
+
+Ewentualne? poprawki:
+1. Zasoby -> specyfikacja serwerów / dok³adniej
+2. Ryzyko -> Kolory dla rodzaju zagro¿enia
+3. Jakoœæ -> Dok³adniejsze metryki - nieakceptowalne wyniki np poni¿ej 95% dostêpnoœci jest beee
+4. Jakoœæ -> Audyt (przed, po, kiedy, zewnetrzne czy zewnetrze?) (skrótowo)
+5.
+6.
+7.
+8.
+9.
